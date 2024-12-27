@@ -1,0 +1,7 @@
+traffic_led.c:20:6:displayLED	16	static
+traffic_led.c:84:6:setDurationBuffer	16	static
+traffic_led.c:89:6:validateDuration	4	static
+traffic_led.c:98:6:blinkyLED1s	16	static
+traffic_led.c:144:6:turnOffLEDAllin	16	static
+traffic_led.c:162:6:turnOffLEDAll	8	static
+traffic_led.c:173:6:initBlinkyFor	16	static

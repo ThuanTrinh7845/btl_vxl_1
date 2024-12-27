@@ -1,0 +1,5 @@
+timer.c:26:6:setTimerVertical	16	static
+timer.c:31:6:setTimerHorizontal	16	static
+timer.c:37:6:setTimerBlinky	16	static
+timer.c:43:6:setTimerLCD	16	static
+timer.c:49:6:timerRun	4	static
